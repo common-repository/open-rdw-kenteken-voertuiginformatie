@@ -1,0 +1,778 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Open RDW kenteken voertuiginformatie\n"
+"POT-Creation-Date: 2016-07-01 09:29+0200\n"
+"PO-Revision-Date: 2024-09-16 12:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: Nederlands\n"
+"Language: nl-NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: open-rdw-kenteken-voertuiginformatie.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.6.11; wp-6.6.2"
+
+#: admin/AdminDashboard.php:152
+msgid ""
+"<strong>Warning:</strong> The license entered for the Open data RDW Pro "
+"plugin has been blocked"
+msgstr ""
+"<strong>Waarschuwing:</strong> De ingevoerde licentie voor de Open data RDW "
+"Pro plugin is geblokkeerd"
+
+#: admin/AdminDashboard.php:155
+msgid ""
+"<strong>Warning:</strong> The license entered for the Open data RDW Pro "
+"plugin has expired"
+msgstr ""
+"<strong>Waarschuwing:</strong> De ingevoerde licentie voor de Open data RDW "
+"Pro plugin is verlopen"
+
+#: admin/AdminDashboard.php:158
+#, php-format
+msgid ""
+"<strong>Warning:</strong> The license for the Open data RDW Pro plugin is "
+"either incorrect or not filled in, click %1$s here %2$s to change the "
+"license."
+msgstr ""
+"<strong>Waarschuwing:</strong> De licentie voor de Open data RDW Pro plugin "
+"is onjuist of niet gevuld, klik %1$s hier %2$s als U deze wilt wijzigen of "
+"toevoegen."
+
+#: views/dashboard/dashboard.info.php:147
+msgid "Activeer de plugin"
+msgstr "Activeer de plugin"
+
+#: admin/partials/TinyMceDisplay.php:36
+msgid "Add shortcode"
+msgstr "Shortcode toevoegen"
+
+#: views/dashboard/dashboard.info.php:113
+msgid "Authenticatie"
+msgstr "Authenticatie"
+
+#: app/Fields.php:28
+msgid "Axels"
+msgstr "Assen"
+
+#: app/Fields.php:68
+#| msgid "Axel number"
+msgid "Axle number"
+msgstr "As nummer"
+
+#: app/Fields.php:280
+msgid "Axle position code"
+msgstr "Aspositiecode"
+
+#: routes/DashboardRouter.php:194
+msgid "Beheer je plugin hier, maak aanpassingen of activeer je licentie."
+msgstr "Beheer je plugin hier, maak aanpassingen of activeer je licentie."
+
+#: app/Fields.php:30
+msgid "Body work"
+msgstr "Carrosserie"
+
+#: app/Fields.php:252
+msgid "Brand"
+msgstr "Merk"
+
+#: admin/partials/TinyMceDisplay.php:35
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: app/Fields.php:216
+msgid "Capacity"
+msgstr "Laadvermogen"
+
+#: app/Fields.php:128
+msgid "Car body code"
+msgstr "Carrosseriecode"
+
+#: app/Fields.php:112
+msgid "Car body sequence number"
+msgstr "Carrosserievolgnummer"
+
+#: app/Fields.php:124
+msgid "Car body type"
+msgstr "Carrosserie type"
+
+#: app/Fields.php:116
+msgid "Car body vehicle code sequence number"
+msgstr "Carrosserie voertuigcode volgnummer"
+
+#: app/Fields.php:108
+msgid "Catalog price"
+msgstr "Catalogusprijs"
+
+#: app/Fields.php:276
+msgid "Chassis number location"
+msgstr "Locatie chassisnummer"
+
+#: app/Fields.php:136
+msgid "CO2 emission combined"
+msgstr "CO2-uitstoot gecombineerd"
+
+#: app/Fields.php:140
+msgid "CO2 emissions for more displays"
+msgstr "CO2-uitstoot voor meer displays"
+
+#: views/dashboard/dashboard.info.php:158
+msgid "Code"
+msgstr "Code"
+
+#: app/Fields.php:96
+msgid "Combined fuel consumption"
+msgstr "Gecombineerd brandstofverbruik"
+
+#: app/Fields.php:200
+msgid "Commercial name"
+msgstr "Model"
+
+#: views/dashboard/dashboard.contactform.php:4
+#| msgid "Contact Form 7 integration:"
+msgid "ContactForm 7-integratie:"
+msgstr ""
+"Contact Form 7 integratie:\n"
+
+#: app/Fields.php:132
+msgid "Cylinder capacity"
+msgstr "Cilinderinhoud"
+
+#. %s stands for the amount of days where we show the statiscs for
+#: routes/DashboardRouter.php:58 routes/DashboardRouter.php:59 
+#: views/dashboard/dashboard.home.php:8
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: app/Fields.php:168
+msgid "Date ascription"
+msgstr "Datum tenaamstelling"
+
+#: app/Fields.php:172
+msgid "Date ascription (datetime)"
+msgstr "Datumtoekenning (datetime)"
+
+#: app/Fields.php:160
+msgid "Date of first registration"
+msgstr "Datum eerste toelating"
+
+#: app/Fields.php:164
+msgid "Date of first registration (datetime)"
+msgstr "Datum van eerste registratie (datetime)"
+
+#: app/Fields.php:156
+msgid "Date of first registration in NL (datetime)"
+msgstr "Datum van eerste registratie in NL (datetime)"
+
+#: app/Fields.php:152
+msgid "Date of first registration in the Netherlands"
+msgstr "Datum van eerste registratie in Nederland"
+
+#: app/Fields.php:148
+msgid "Date of first release Netherlands"
+msgstr "Datum eerste afgifte Nederland"
+
+#. %s: addon name
+#: app/Updater.php:309
+#, php-format
+msgid ""
+"De licentie van %s is geblokkeerd. Neem contact op met Tussendoor voor meer "
+"informatie."
+msgstr ""
+"De licentie van %s is geblokkeerd. Neem contact op met Tussendoor voor meer "
+"informatie."
+
+#. %s: addon name
+#: app/Updater.php:300
+#, php-format
+msgid "De licentie van %s is succesvol gecontroleerd."
+msgstr "De licentie van %s is succesvol gecontroleerd."
+
+#. %s: addon name
+#: app/Updater.php:318
+#, php-format
+msgid ""
+"De licentie van %s is verlopen. Neem contact op met Tussendoor voor meer "
+"informatie."
+msgstr "De licentie van %s is succesvol gecontroleerd."
+
+#. %s: addon name
+#: app/Updater.php:336
+#, php-format
+msgid ""
+"De opgeslagen licentiecode voor de %s is ongeldig. Neem contact op met "
+"Tussendoor voor meer informatie."
+msgstr ""
+"De opgeslagen licentiecode voor de %s is ongeldig. Neem contact op met "
+"Tussendoor voor meer informatie."
+
+#: app/Fields.php:25
+msgid "Design"
+msgstr "Ontwerp"
+
+#: app/Fields.php:64
+msgid "Distance from vehicle front to coupling point"
+msgstr "Afstand van voertuigfront tot koppelingspunt"
+
+#: app/Fields.php:36
+#| msgid "Driven axel"
+msgid "Driven axle"
+msgstr ""
+"Aangedreven as\n"
+
+#: app/Fields.php:412
+msgid "Efficiency label"
+msgstr "Efficiëntielabel"
+
+#: app/Fields.php:260
+msgid "EG environmental class light"
+msgstr "EG milieuklasse licht"
+
+#: app/Fields.php:180
+msgid "Emission code"
+msgstr "Emissiecode"
+
+#: app/Fields.php:184
+#| msgid "emission code description"
+msgid "Emission code description"
+msgstr ""
+"Emissiecode omschrijving\n"
+
+#: app/Fields.php:224
+msgid "Empty vehicle mass"
+msgstr "Massa ledig voertuig"
+
+#: app/Fields.php:24
+msgid "Engine"
+msgstr "Motor"
+
+#: app/Fields.php:20
+msgid "Environment"
+msgstr "Omgeving"
+
+#: app/Fields.php:256
+msgid "Environmental class"
+msgstr "Milieuklasse"
+
+#. %s: plugin name
+#: app/Http/Controllers/PluginController.php:149
+#, php-format
+msgid "Er is nog geen licentiecode ingevuld voor %s."
+msgstr "Er is nog geen licentiecode ingevuld voor %s."
+
+#: app/Fields.php:120
+msgid "European car body vehicle number"
+msgstr "Europees carrosserie voertuignummer"
+
+#: app/Fields.php:188
+msgid "European vehicle category"
+msgstr "Europese voertuigcategorie"
+
+#: app/Fields.php:328
+msgid "Exhaust emission level"
+msgstr "Uitlaatgasemissieniveau"
+
+#: app/Fields.php:144
+msgid "Explanation code odometer reading"
+msgstr "Uitleg code kilometerstand"
+
+#: app/Fields.php:192
+msgid "Export indicator"
+msgstr "Export indicator"
+
+#: views/sections/admin.footer.php:16
+msgid "Feedback"
+msgstr "Feedback"
+
+#: app/Fields.php:27
+msgid "Financials"
+msgstr "Financiën"
+
+#: app/Fields.php:176
+msgid "First colour"
+msgstr "Eerste kleur"
+
+#: app/Fields.php:88
+#| msgid "Fuel consumption in city"
+msgid "Fuel consumption city"
+msgstr ""
+"Brandstofverbruik in de stad\n"
+
+#: app/Fields.php:84
+msgid "Fuel consumption combined"
+msgstr "Brandstofverbruik gecombineerd"
+
+#: app/Fields.php:100
+msgid "Fuel consumption in the city"
+msgstr "Brandstofverbruik in de stad"
+
+#: app/Fields.php:92
+msgid "Fuel consumption outside"
+msgstr "Brandstofverbruik buiten"
+
+#: app/Fields.php:80
+msgid "Fuel consumption outside city"
+msgstr "Brandstofverbruik buiten de stad"
+
+#: app/Fields.php:72
+msgid "Fuel description"
+msgstr "Brandstof omschrijving"
+
+#: app/Fields.php:29
+msgid "Fuel information"
+msgstr "Brandstof informatie"
+
+#: app/Fields.php:76
+msgid "Fuel sequence number"
+msgstr "Brandstofvolgnummer"
+
+#: views/dashboard/dashboard.info.php:95
+msgid "Geldig"
+msgstr "Geldig"
+
+#: app/Fields.php:104
+msgid "Gross BPM"
+msgstr "Bruto BPM"
+
+#: views/sections/admin.footer.php:15
+msgid "Help"
+msgstr "Help"
+
+#. %s: addon name
+#: app/Updater.php:327
+#, php-format
+msgid ""
+"Het maximaal aantal activaties van de licentie voor %s is overschreden. Neem "
+"contact op met Tussendoor voor meer informatie."
+msgstr ""
+"Het maximaal aantal activaties van de licentie voor %s is overschreden. Neem "
+"contact op met Tussendoor voor meer informatie."
+
+#: app/Fields.php:19
+msgid "History"
+msgstr "Historie"
+
+#. URI of the plugin
+#. Author URI of the plugin
+#| msgid "http://www.tussendoor.nl"
+msgid "https://www.tussendoor.nl"
+msgstr ""
+"http://www.tussendoor.nl\n"
+
+#: views/dashboard/dashboard.info.php:124
+msgid ""
+"Indien het ophalen van kentekens niet werkt kun je dit proberen.\n"
+"                                Neem anders contact op met Tussendoor B.V."
+msgstr ""
+"Indien het ophalen van kentekens niet werkt kun je dit proberen.\n"
+"                                Neem anders contact op met Tussendoor B.V."
+
+#: views/dashboard/dashboard.info.php:12
+msgid "Installatie"
+msgstr "Installatie"
+
+#: app/Http/Controllers/SettingsController.php:55
+msgid "Instellingen opgeslagen!"
+msgstr "Instellingen opgeslagen!"
+
+#: views/dashboard/dashboard.info.php:147
+msgid "Jouw licentie"
+msgstr "Jouw licentie"
+
+#: views/logs.php:6
+msgid "Krijg hier inzicht in de acties van de plugin."
+msgstr "Krijg hier inzicht in de acties van de plugin."
+
+#: app/Fields.php:208
+msgid "Layout"
+msgstr "Indeling"
+
+#: app/Fields.php:404
+msgid "Legally permissible maximum axle load"
+msgstr "Wettelijk toegestane maximale aslast"
+
+#: app/Fields.php:220
+msgid "Length"
+msgstr "Lengte"
+
+#: app/Fields.php:212
+msgid "License plate"
+msgstr "Kenteken"
+
+#: views/dashboard/dashboard.info.php:67
+#| msgid "License"
+msgid "Licentie"
+msgstr ""
+"Licentie\n"
+
+#: views/dashboard/dashboard.info.php:156
+msgid "Licentie code"
+msgstr "Licentiecode"
+
+#: app/Fields.php:204
+#| msgid "Lifting axle"
+msgid "Lift axle"
+msgstr ""
+"Hefas\n"
+
+#: app/Fields.php:332
+msgid "Light particle emissions"
+msgstr "Lichte deeltjesemissies"
+
+#: app/Http/Controllers/PluginController.php:131
+msgid "Logboek"
+msgstr "Logboek"
+
+#: app/Fields.php:228
+msgid "Mass roadworthy"
+msgstr "Massa rijklaar"
+
+#: app/Fields.php:236
+msgid "Max load on front axle combined"
+msgstr "Maximale belasting op de vooras gecombineerd"
+
+#: app/Fields.php:240
+msgid "Maximum combined mass"
+msgstr "Maximale gecombineerde massa"
+
+#: app/Fields.php:232
+msgid "Maximum construction speed moped"
+msgstr "Maximale bouwsnelheid bromfiets"
+
+#: app/Fields.php:308
+msgid "Maximum permissible mass of vehicle"
+msgstr "Toegestane maximum massa voertuig"
+
+#: app/Fields.php:23
+msgid "Maximum towable mass"
+msgstr "Maximum te trekken massa"
+
+#: app/Fields.php:248
+msgid "Maximum towable mass braked"
+msgstr "Maximum massa trekken geremd"
+
+#: app/Fields.php:244
+msgid "Maximum towable mass non-braked"
+msgstr "Maximum massa trekken ongeremd"
+
+#: app/Fields.php:18
+msgid "Miscellaneous"
+msgstr "Overige"
+
+#: app/Models/History.php:19 app/Models/History.php:23 
+#: app/Models/History.php:36 app/Models/History.php:40
+msgid "Momenteel geen data beschikbaar"
+msgstr "Momenteel geen data beschikbaar"
+
+#: app/Fields.php:26
+msgid "Moped"
+msgstr "Brom-/Snor-fiets"
+
+#: app/Fields.php:344
+msgid "MOT expiry"
+msgstr "Vervaldatum APK"
+
+#: app/Fields.php:348
+msgid "MOT expiry (datetime)"
+msgstr "APK-vervaldatum (datum/tijd)"
+
+#: app/Fields.php:264
+msgid "Net maximum power"
+msgstr "Netto maximaal vermogen"
+
+#: app/Fields.php:40
+#| msgid "Number of axels"
+msgid "Number of axles"
+msgstr ""
+"Aantal assen\n"
+
+#: app/Fields.php:44
+#| msgid "Number of cilinders"
+msgid "Number of cylinders"
+msgstr ""
+"Aantal cilinders\n"
+
+#: app/Fields.php:52
+msgid "Number of seats"
+msgstr "Aantal zitplaatsen"
+
+#: app/Fields.php:48
+msgid "Number of wheels"
+msgstr "Aantal wielen"
+
+#: app/Fields.php:300
+msgid "Odometer reading judgment"
+msgstr "Beoordeling kilometerstand"
+
+#: views/dashboard/dashboard.info.php:96
+msgid "Ongeldig"
+msgstr "Ongeldig"
+
+#. %s is the viewtype like "orders" or "returns"
+#: views/overview.php:7
+#, php-format
+msgid "Op deze pagina heb je inzicht in je %s."
+msgstr "Op deze pagina heb je inzicht in je %s."
+
+#. Description of the plugin
+msgid ""
+"Open RDW Kenteken voertuiginformatie for requesting and sending of vehicle "
+"information in WordPress."
+msgstr ""
+"Open RDW Kenteken voertuiginformatie voor het opvragen en verzenden van "
+"voertuiginformatie in WordPress."
+
+#: app/Fields.php:268
+msgid "Open recall action indicator"
+msgstr "Open terugroepactie-indicator"
+
+#: views/dashboard/dashboard.info.php:163
+msgid "Opslaan"
+msgstr "Opslaan"
+
+#: app/Http/Controllers/SettingsController.php:54
+msgid ""
+"Opslaan van de instellingen mislukt! Neem contact op met Tussendoor B.V. "
+"wanneer de fout zich voor blijft doen."
+msgstr ""
+"Opslaan van de instellingen mislukt! Neem contact op met Tussendoor B.V. "
+"wanneer de fout zich voor blijft doen."
+
+#: app/Fields.php:284
+msgid "Particulate emission"
+msgstr "Deeltjesuitstoot"
+
+#: views/dashboard/dashboard.info.php:17
+msgid "PHP"
+msgstr "PHP"
+
+#: app/Fields.php:336
+msgid "Power at curb weight"
+msgstr "Vermogen bij leeggewicht"
+
+#: app/Fields.php:340
+msgid "Power curb weight"
+msgstr "Vermogen leeggewicht"
+
+#: app/Fields.php:304
+msgid "Registration possible"
+msgstr "Registratie mogelijk"
+
+#: app/Includes/Widget.php:31
+msgid "Request data by means of license plate from the Open RDW."
+msgstr "Vraag kenteken gegevens op via de open data van het RDW."
+
+#: app/Includes/Widget.php:73
+msgid "Request licence plate information"
+msgstr "Zoek kenteken informatie"
+
+#: app/Fields.php:400
+msgid "Road behavior code"
+msgstr "Gedragscode voor het wegverkeer"
+
+#: app/Fields.php:388
+msgid "Road tax environmental class heavy diesel vehicles"
+msgstr "Wegenbelasting milieuklasse zware dieselvoertuigen"
+
+#: app/Fields.php:392
+msgid "Road tax environmental class heavy LPG vehicles"
+msgstr "Wegenbelasting milieuklasse zware LPG-voertuigen"
+
+#: app/Fields.php:384
+msgid "Road tax environmental class heavy petrol vehicles"
+msgstr "Wegenbelasting milieuklasse zware benzinevoertuigen"
+
+#: app/Fields.php:376
+msgid "Road tax environmental class light diesel vehicles"
+msgstr "Wegenbelasting milieuklasse lichte dieselvoertuigen"
+
+#: app/Fields.php:380
+msgid "Road tax environmental class light LPG vehicles"
+msgstr "Wegenbelasting milieuklasse lichte LPG-voertuigen"
+
+#: app/Fields.php:372
+msgid "Road tax environmental class light petrol vehicles"
+msgstr "Wegenbelasting milieuklasse lichte benzinevoertuigen"
+
+#: app/Fields.php:396
+msgid "Road tax fuel-efficient vehicles"
+msgstr "Wegenbelasting zuinige voertuigen"
+
+#: app/Fields.php:312
+#| msgid "Rev noise level"
+msgid "RPM noise level"
+msgstr ""
+"Toerental geluidsniveau\n"
+
+#: public/partials/KentekenWidgetView.php:40
+msgid "Search license"
+msgstr "Zoek kenteken"
+
+#: app/Fields.php:316
+msgid "Secondary colour"
+msgstr "Tweede kleur"
+
+#: admin/partials/TinyMceDisplay.php:24
+#| msgid "Select which feelds you would like to display:"
+msgid "Select which fields you would like to display:"
+msgstr ""
+"Selecteer welke velden je wilt weergeven:\n"
+
+#: views/dashboard/dashboard.info.php:162
+msgid "Sluiten"
+msgstr "Sluiten"
+
+#: app/Fields.php:196
+msgid "Stationary noise level"
+msgstr "Stationair geluidsniveau"
+
+#: app/Fields.php:352
+msgid "Tachograph expiration date"
+msgstr "Vervaldatum tachograaf"
+
+#: app/Fields.php:356
+msgid "Tachograph expiration date (datetime)"
+msgstr "Vervaldatum tachograaf (datetime)"
+
+#: app/Fields.php:288
+msgid "Taxi indicator"
+msgstr "Taxi-indicator"
+
+#: app/Fields.php:292
+msgid "Technical max vehicle mass"
+msgstr "Technische maximale voertuigmassa"
+
+#: app/Fields.php:296
+msgid "Technically permissible max axle load"
+msgstr "Technisch toegestane maximale aslast"
+
+#: views/dashboard/dashboard.statistics.php:15
+msgid "Totaal deze maand"
+msgstr "Totaal deze maand"
+
+#: views/dashboard/dashboard.statistics.php:22
+msgid "Totaal vandaag"
+msgstr "Totaal vandaag"
+
+#: app/Fields.php:56
+msgid "Trailer autonomous braked"
+msgstr "Aanhangwagen autonoom geremd"
+
+#: app/Fields.php:272
+msgid "Trailer braked"
+msgstr "Aanhangwagen geremd"
+
+#: app/Fields.php:60
+msgid "Trailer center axis braked"
+msgstr "Aanhangwagen middenas geremd"
+
+#: app/Http/Controllers/SettingsController.php:130
+msgid ""
+"TSD006: De Tussendoor API gaf een foutmelding terug. Neem contact op met "
+"Tussendoor B.V. wanneer de fout zich voor blijft doen."
+msgstr ""
+"TSD006: De Tussendoor API gaf een foutmelding terug. Neem contact op met "
+"Tussendoor B.V. wanneer de fout zich voor blijft doen."
+
+#. Name of the plugin
+msgid "Tussendoor - Open RDW"
+msgstr "Tussendoor - Open RDW"
+
+#: views/dashboard/dashboard.info.php:119
+msgid "Tussendoor API Token"
+msgstr "Tussendoor API-token"
+
+#. Author of the plugin
+msgid "Tussendoor internet & marketing"
+msgstr "Tussendoor internet & marketing"
+
+#: app/Fields.php:320
+msgid "Type"
+msgstr "Type"
+
+#: app/Fields.php:324
+msgid "Type of car body European description"
+msgstr "Type carrosserie Europese omschrijving"
+
+#: public/partials/KentekenWidgetView.php:45
+#, php-format
+msgid "Unfortunately no vehicle information was found for license plate %s."
+msgstr "Helaas is er geen voertuig informatie gevonden voor kenteken %s."
+
+#: app/Fields.php:21
+msgid "Vehicle"
+msgstr "Voertuig"
+
+#: app/Fields.php:360
+msgid "Vehicle type"
+msgstr "Voertuigtype"
+
+#: views/dashboard/dashboard.statistics.php:10
+msgid "Verbruik"
+msgstr "Verbruik"
+
+#: views/dashboard/dashboard.info.php:136
+msgid "Vernieuwen"
+msgstr "Vernieuwen"
+
+#: views/dashboard/dashboard.info.php:26
+#| msgid "Version"
+msgid "Versies"
+msgstr ""
+"Versies\n"
+
+#: views/logs.php:22
+msgid "Verwijder alle logboeken"
+msgstr "Verwijder alle logboeken"
+
+#: views/logs.php:21
+msgid "Verwijder deze log"
+msgstr "Verwijder deze log"
+
+#: views/dashboard/dashboard.info.php:152
+msgid "Voeg een nieuwe licentiecode toe als je de vorige wil overschrijven."
+msgstr "Voeg een nieuwe licentiecode toe als je de vorige wil overschrijven."
+
+#: views/dashboard/dashboard.info.php:152
+msgid "Voeg hier je licentiecode toe."
+msgstr "Voeg hier je licentiecode toe."
+
+#: views/dashboard/dashboard.info.php:88
+msgid "Voer een licentiecode in"
+msgstr "Voer een licentiecode in"
+
+#: app/Fields.php:368
+msgid "Waiting for approval"
+msgstr "Wachten op keuring"
+
+#: app/Fields.php:364
+msgid "WAM insured"
+msgstr "WAM verzekerd"
+
+#: app/Fields.php:22
+#| msgid "Wheight and capacity"
+msgid "Weight and capacity"
+msgstr ""
+"Gewicht en capaciteit\n"
+
+#: app/Fields.php:408
+msgid "Wheelbase"
+msgstr "Wielbasis"
+
+#: admin/partials/WidgetDisplay.php:12
+msgid "Widget class:"
+msgstr "Widget class:"
+
+#: admin/partials/WidgetDisplay.php:8
+msgid "Widget title:"
+msgstr "Widget titel:"

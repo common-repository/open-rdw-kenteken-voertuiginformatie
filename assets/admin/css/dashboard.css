@@ -1,0 +1,13 @@
+.tsd-bol_dashboard .modal-content ul {
+    font-size : 13px;
+}
+
+.tsd-bol_dashboard .custom-colored-list li:nth-of-type(2n+1) strong,
+.tsd-bol_dashboard .custom-colored-list li:nth-of-type(2n+1) span {
+    background-color : #eff5ff;
+}
+
+.tsd-bol_dashboard .custom-colored-list li:nth-of-type(2n) strong,
+.tsd-bol_dashboard .custom-colored-list li:nth-of-type(2n) span {
+    background-color : #f7faff;
+}

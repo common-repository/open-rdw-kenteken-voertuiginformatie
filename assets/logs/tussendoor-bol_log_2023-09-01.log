@@ -1,0 +1,256 @@
+[2023-09-01 6:42:42.750121] [info] Request for shipments at Bol.com started
+    arguments: array(
+        'method' => 'FBB',
+    )
+[2023-09-01 6:42:42.753673] [info] Requesting Bol endpoint
+    endpoint: '/retailer/shipments?fulfilment-method=FBB'
+[2023-09-01 6:42:42.826206] [debug] Plugin lost access to the Bol.com API. Regaining access.
+    tries: 1
+[2023-09-01 6:42:42.829051] [info] Plugin trying to gain access to the Bol.com API
+[2023-09-01 6:42:42.910157] [info] Plugin successfully gained access to the Bol.com API!
+[2023-09-01 6:42:42.914773] [info] Requesting Bol endpoint
+    endpoint: '/retailer/shipments?fulfilment-method=FBB'
+[2023-09-01 6:42:46.301553] [info] Shipment retrieved for unknown order. Attempting to create a new order for it.
+    order_id: '1624827773'
+    shipment_id: '1283581013'
+[2023-09-01 6:42:46.360604] [error] Error while getting full order from Bol.com
+    order_id: '1624827773'
+    isShipment: true
+    error: 'Forbidden'
+    code: 403
+[2023-09-01 6:42:46.362967] [info] Shipment retrieved for unknown order. Attempting to create a new order for it.
+    order_id: '1624232426'
+    shipment_id: '1283284288'
+[2023-09-01 6:42:46.420398] [error] Error while getting full order from Bol.com
+    order_id: '1624232426'
+    isShipment: true
+    error: 'Forbidden'
+    code: 403
+[2023-09-01 6:42:46.423002] [info] Shipment retrieved for unknown order. Attempting to create a new order for it.
+    order_id: '1624329327'
+    shipment_id: '1283018830'
+[2023-09-01 6:42:46.474723] [error] Error while getting full order from Bol.com
+    order_id: '1624329327'
+    isShipment: true
+    error: 'Forbidden'
+    code: 403
+[2023-09-01 6:42:46.477251] [info] Shipment retrieved for unknown order. Attempting to create a new order for it.
+    order_id: '1624478700'
+    shipment_id: '1282960740'
+[2023-09-01 6:42:46.536494] [error] Error while getting full order from Bol.com
+    order_id: '1624478700'
+    isShipment: true
+    error: 'Forbidden'
+    code: 403
+[2023-09-01 6:42:46.540827] [info] Shipment retrieved for unknown order. Attempting to create a new order for it.
+    order_id: '1621331813'
+    shipment_id: '1282925010'
+[2023-09-01 6:42:46.610987] [error] Error while getting full order from Bol.com
+    order_id: '1621331813'
+    isShipment: true
+    error: 'Forbidden'
+    code: 403
+[2023-09-01 6:42:46.614964] [info] Shipment retrieved for unknown order. Attempting to create a new order for it.
+    order_id: '1624246009'
+    shipment_id: '1282758950'
+[2023-09-01 6:42:46.718473] [error] Error while getting full order from Bol.com
+    order_id: '1624246009'
+    isShipment: true
+    error: 'Forbidden'
+    code: 403
+[2023-09-01 6:42:46.722784] [info] Shipment retrieved for unknown order. Attempting to create a new order for it.
+    order_id: '1622072058'
+    shipment_id: '1282738149'
+[2023-09-01 6:42:46.787691] [error] Error while getting full order from Bol.com
+    order_id: '1622072058'
+    isShipment: true
+    error: 'Forbidden'
+    code: 403
+[2023-09-01 6:42:46.796952] [info] Shipment retrieved for unknown order. Attempting to create a new order for it.
+    order_id: '1623999789'
+    shipment_id: '1282531227'
+[2023-09-01 6:42:46.858406] [error] Error while getting full order from Bol.com
+    order_id: '1623999789'
+    isShipment: true
+    error: 'Forbidden'
+    code: 403
+[2023-09-01 6:42:46.863996] [info] Shipment retrieved for unknown order. Attempting to create a new order for it.
+    order_id: '1623787809'
+    shipment_id: '1282173302'
+[2023-09-01 6:42:46.929398] [error] Error while getting full order from Bol.com
+    order_id: '1623787809'
+    isShipment: true
+    error: 'Forbidden'
+    code: 403
+[2023-09-01 6:42:46.956243] [info] Request for FBB shipments completed.
+    tries: 1
+    synced: 4
+    updated: 37
+[2023-09-01 6:42:46.957370] [info] Request for shipments at Bol.com started
+    arguments: array(
+        'method' => 'FBR',
+    )
+[2023-09-01 6:42:46.959593] [info] Requesting Bol endpoint
+    endpoint: '/retailer/shipments?fulfilment-method=FBR'
+[2023-09-01 6:42:47.081760] [info] Shipment retrieved for unknown order. Attempting to create a new order for it.
+    order_id: '1625149381'
+    shipment_id: '1283652330'
+[2023-09-01 6:42:47.145117] [error] Error while getting full order from Bol.com
+    order_id: '1625149381'
+    isShipment: true
+    error: 'Forbidden'
+    code: 403
+[2023-09-01 6:42:47.149027] [info] Shipment retrieved for unknown order. Attempting to create a new order for it.
+    order_id: '1615136813'
+    shipment_id: '1271257146'
+[2023-09-01 6:42:47.240704] [error] Error while getting full order from Bol.com
+    order_id: '1615136813'
+    isShipment: true
+    error: 'Forbidden'
+    code: 403
+[2023-09-01 6:42:47.244019] [info] Shipment retrieved for unknown order. Attempting to create a new order for it.
+    order_id: '1614684790'
+    shipment_id: '1270990083'
+[2023-09-01 6:42:47.306477] [error] Error while getting full order from Bol.com
+    order_id: '1614684790'
+    isShipment: true
+    error: 'Forbidden'
+    code: 403
+[2023-09-01 6:42:47.308552] [info] Shipment retrieved for unknown order. Attempting to create a new order for it.
+    order_id: '1557626984'
+    shipment_id: '1270989891'
+[2023-09-01 6:42:47.367858] [error] Error while getting full order from Bol.com
+    order_id: '1557626984'
+    isShipment: true
+    error: 'Forbidden'
+    code: 403
+[2023-09-01 6:42:47.369162] [info] Shipment retrieved for unknown order. Attempting to create a new order for it.
+    order_id: '1608308373'
+    shipment_id: '1263151416'
+[2023-09-01 6:42:47.419724] [error] Error while getting full order from Bol.com
+    order_id: '1608308373'
+    isShipment: true
+    error: 'Forbidden'
+    code: 403
+[2023-09-01 6:42:47.420938] [info] Shipment retrieved for unknown order. Attempting to create a new order for it.
+    order_id: '1608308373'
+    shipment_id: '1263151413'
+[2023-09-01 6:42:47.474378] [error] Error while getting full order from Bol.com
+    order_id: '1608308373'
+    isShipment: true
+    error: 'Forbidden'
+    code: 403
+[2023-09-01 6:42:47.476066] [info] Shipment retrieved for unknown order. Attempting to create a new order for it.
+    order_id: '1604918113'
+    shipment_id: '1262799312'
+[2023-09-01 6:42:47.529892] [error] Error while getting full order from Bol.com
+    order_id: '1604918113'
+    isShipment: true
+    error: 'Forbidden'
+    code: 403
+[2023-09-01 6:42:47.531831] [info] Shipment retrieved for unknown order. Attempting to create a new order for it.
+    order_id: '1607899348'
+    shipment_id: '1262322079'
+[2023-09-01 6:42:47.588711] [error] Error while getting full order from Bol.com
+    order_id: '1607899348'
+    isShipment: true
+    error: 'Forbidden'
+    code: 403
+[2023-09-01 6:42:47.591365] [info] Shipment retrieved for unknown order. Attempting to create a new order for it.
+    order_id: '1607724680'
+    shipment_id: '1262141827'
+[2023-09-01 6:42:47.645809] [error] Error while getting full order from Bol.com
+    order_id: '1607724680'
+    isShipment: true
+    error: 'Forbidden'
+    code: 403
+[2023-09-01 6:42:47.648184] [info] Shipment retrieved for unknown order. Attempting to create a new order for it.
+    order_id: '1607586737'
+    shipment_id: '1262015683'
+[2023-09-01 6:42:47.718456] [error] Error while getting full order from Bol.com
+    order_id: '1607586737'
+    isShipment: true
+    error: 'Forbidden'
+    code: 403
+[2023-09-01 6:42:47.720781] [info] Request for FBR shipments completed.
+    tries: 1
+    synced: 4
+    updated: 47
+[2023-09-01 6:42:47.722153] [info] All the requests for the shipments have been completed
+    requests: 2
+[2023-09-01 6:42:47.734570] [info] Request for returns at Bol.com started
+    arguments: array(
+        'method' => 'FBB',
+        'handled' => 'true',
+    )
+[2023-09-01 6:42:47.737008] [info] Requesting Bol endpoint
+    endpoint: '/retailer/returns?fulfilment-method=FBB&handled=true'
+[2023-09-01 6:42:47.813918] [debug] Too many requests
+    retry-after: '13'
+[2023-09-01 6:42:47.834805] [info] Request for orders at Bol.com started
+    arguments: array(
+        'method' => 'ALL',
+    )
+[2023-09-01 6:42:47.838795] [info] Requesting Bol endpoint
+    endpoint: '/retailer/orders?fulfilment-method=ALL&status=ALL'
+[2023-09-01 6:42:47.911504] [debug] Too many requests
+    retry-after: '13'
+[2023-09-01 6:43:19.299695] [info] Request for returns at Bol.com started
+    arguments: array(
+        'method' => 'FBB',
+        'handled' => 'true',
+    )
+[2023-09-01 6:43:19.302587] [info] Requesting Bol endpoint
+    endpoint: '/retailer/returns?fulfilment-method=FBB&handled=true'
+[2023-09-01 6:43:19.486705] [info] Request for handled FBB returns completed.
+    tries: 1
+    synced: 0
+    updated: 13
+[2023-09-01 6:43:19.487184] [info] Request for returns at Bol.com started
+    arguments: array(
+        'method' => 'FBR',
+        'handled' => 'true',
+    )
+[2023-09-01 6:43:19.488045] [info] Requesting Bol endpoint
+    endpoint: '/retailer/returns?fulfilment-method=FBR&handled=true'
+[2023-09-01 6:43:19.580935] [info] Request for handled FBR returns completed.
+    tries: 1
+    synced: 0
+    updated: 13
+[2023-09-01 6:43:19.581985] [info] Request for returns at Bol.com started
+    arguments: array(
+        'method' => 'FBB',
+        'handled' => 'false',
+    )
+[2023-09-01 6:43:19.583507] [info] Requesting Bol endpoint
+    endpoint: '/retailer/returns?fulfilment-method=FBB&handled=false'
+[2023-09-01 6:43:19.666134] [info] Request for handled FBB returns completed.
+    tries: 1
+    synced: 0
+    updated: 14
+[2023-09-01 6:43:19.667547] [info] Request for returns at Bol.com started
+    arguments: array(
+        'method' => 'FBR',
+        'handled' => 'false',
+    )
+[2023-09-01 6:43:19.670603] [info] Requesting Bol endpoint
+    endpoint: '/retailer/returns?fulfilment-method=FBR&handled=false'
+[2023-09-01 6:43:19.764853] [info] No returns found!
+[2023-09-01 6:43:19.766549] [info] Request for handled FBR returns completed.
+    tries: 1
+    synced: 0
+    updated: 14
+[2023-09-01 6:43:19.768043] [info] All the requests for the returns have been completed
+    requests: 4
+[2023-09-01 6:43:19.776385] [info] Request for orders at Bol.com started
+    arguments: array(
+        'method' => 'ALL',
+    )
+[2023-09-01 6:43:19.778700] [info] Requesting Bol endpoint
+    endpoint: '/retailer/orders?fulfilment-method=ALL&status=ALL'
+[2023-09-01 6:43:20.129205] [info] Request for ALL orders completed.
+    tries: 1
+    synced: 2
+    updated: 10
+[2023-09-01 6:43:20.129635] [info] All the requests for the orders have been completed
+    requests: 1
